@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xsld0EyN0HC6nnfaN6rlYEdmCwRsCzII9VCPZ4gRh6OrgTbtUX/c6R3z9rMhWq7OwUvp6A2NNW6NVEls+lDLMw==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\ContasAPagar\\ContasAPagar.Domain\\ContasAPagar.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gerbe\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\gerbe\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

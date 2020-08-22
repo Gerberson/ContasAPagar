@@ -1,0 +1,9 @@
+C:\dev\ContasAPagar\ContasAPagar.Domain\bin\Debug\netstandard2.0\ContasAPagar.Domain.deps.json
+C:\dev\ContasAPagar\ContasAPagar.Domain\bin\Debug\netstandard2.0\ContasAPagar.Domain.dll
+C:\dev\ContasAPagar\ContasAPagar.Domain\bin\Debug\netstandard2.0\ContasAPagar.Domain.pdb
+C:\dev\ContasAPagar\ContasAPagar.Domain\obj\Debug\netstandard2.0\ContasAPagar.Domain.csprojAssemblyReference.cache
+C:\dev\ContasAPagar\ContasAPagar.Domain\obj\Debug\netstandard2.0\ContasAPagar.Domain.AssemblyInfoInputs.cache
+C:\dev\ContasAPagar\ContasAPagar.Domain\obj\Debug\netstandard2.0\ContasAPagar.Domain.AssemblyInfo.cs
+C:\dev\ContasAPagar\ContasAPagar.Domain\obj\Debug\netstandard2.0\ContasAPagar.Domain.csproj.CoreCompileInputs.cache
+C:\dev\ContasAPagar\ContasAPagar.Domain\obj\Debug\netstandard2.0\ContasAPagar.Domain.dll
+C:\dev\ContasAPagar\ContasAPagar.Domain\obj\Debug\netstandard2.0\ContasAPagar.Domain.pdb

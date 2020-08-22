@@ -1,0 +1,9 @@
+C:\dev\ContasAPagar\ContasAPagar.Infra\bin\Debug\netstandard2.0\ContasAPagar.Infra.deps.json
+C:\dev\ContasAPagar\ContasAPagar.Infra\bin\Debug\netstandard2.0\ContasAPagar.Infra.dll
+C:\dev\ContasAPagar\ContasAPagar.Infra\bin\Debug\netstandard2.0\ContasAPagar.Infra.pdb
+C:\dev\ContasAPagar\ContasAPagar.Infra\obj\Debug\netstandard2.0\ContasAPagar.Infra.csprojAssemblyReference.cache
+C:\dev\ContasAPagar\ContasAPagar.Infra\obj\Debug\netstandard2.0\ContasAPagar.Infra.AssemblyInfoInputs.cache
+C:\dev\ContasAPagar\ContasAPagar.Infra\obj\Debug\netstandard2.0\ContasAPagar.Infra.AssemblyInfo.cs
+C:\dev\ContasAPagar\ContasAPagar.Infra\obj\Debug\netstandard2.0\ContasAPagar.Infra.csproj.CoreCompileInputs.cache
+C:\dev\ContasAPagar\ContasAPagar.Infra\obj\Debug\netstandard2.0\ContasAPagar.Infra.dll
+C:\dev\ContasAPagar\ContasAPagar.Infra\obj\Debug\netstandard2.0\ContasAPagar.Infra.pdb
